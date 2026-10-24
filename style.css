@@ -107,9 +107,6 @@ footer {
     border-top-width: thick;
     border-top-style: solid;
     border-top-color: #dbedf0;
-}
-
-footer h2, footer ul {
     text-align: center;
 }
 
@@ -147,4 +144,35 @@ img {
 
 footer a {
     color: #dbedf0;
+}
+
+.contact-h2 {
+    margin-top: 1rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-inline: 15%;
+}
+
+form label {
+    width: 100%;
+    text-align: left;
+}
+
+.contact-input {
+    width: 100%;
+    border: 0.1rem solid #dbedf0;
+    border-radius: 0.2rem;
+    color: #dbedf0;
+}
+
+.contact-button {
+    width: 30%;
+    border: 0.1rem solid #dbedf0;
+    border-radius: 0.2rem;
+    color: #dbedf0;
+    margin-inline: 35%;
+    margin-top: .5rem;
 }
