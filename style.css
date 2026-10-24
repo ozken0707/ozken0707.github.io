@@ -165,12 +165,13 @@ form label {
     border: 0.1rem solid #dbedf0;
     border-radius: 0.2rem;
     color: #dbedf0;
+    margin-bottom: 1rem;
 }
 
 .contact-button {
     border: 0.1rem solid #dbedf0;
     border-radius: 0.2rem;
     color: #dbedf0;
-    margin: 1rem auto;
+    margin: 0rem auto;
     padding-inline: 2rem;
 }
