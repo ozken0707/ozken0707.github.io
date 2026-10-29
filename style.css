@@ -91,6 +91,12 @@ section {
     }
 }
 
+@media (max-width: 400px) {
+    header {
+        font-size: 85%;
+    }
+}
+
 .profile img {
     border-radius: 50%;
 }
