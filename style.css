@@ -40,6 +40,8 @@ header {
     align-items: center;
     gap: 1rem;
     flex-wrap: wrap;
+    position: sticky;
+    top: 0;
 }
 
 nav ul {
